@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IDK im still learning java and practicing in codewars
 - 📫 How to reach me my gmail elbryancanon1234@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Soy de Nicaragua
+- ⚡ Fun fact: Soy de Nicaragua, I enjoy playing retro games, so I guess someday I'll create a game like those.
 
 <!---
 ImBryan2004/ImBryan2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
